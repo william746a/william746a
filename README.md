@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Web Application Developer with over 8 years of experience delivering critical solutions for enterprise projects. His expertise includes building Java/Spring Boot CRUD microservices, modernizing legacy Java EE monoliths, and developing Java libraries and frameworks to support tenant success across mission-critical services deployed on a Kubernetes cluster.  My current interests include quantum and building AI-centeric applications with various Java frameworks.
+
 <!--
 **william746a/william746a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
